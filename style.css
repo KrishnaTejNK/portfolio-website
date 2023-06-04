@@ -1,0 +1,19 @@
+<section id="home">
+  <h2>Welcome to My Portfolio</h2>
+  <p>Hi, I'm John Doe, a web developer.</p>
+</section>
+
+<section id="about">
+  <h2>About Me</h2>
+  <p>I have 5 years of experience in web development...</p>
+</section>
+
+<section id="projects">
+  <h2>My Projects</h2>
+  <div class="project">
+    <h3>Project 1</h3>
+    <p>Description of Project 1</p>
+  </div>
+  <div class="project">
+    <h3>Project 2</h3>
+    <p>Description of Project
